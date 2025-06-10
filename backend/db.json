@@ -1,0 +1,8 @@
+{
+  "gameState": {
+    "deck_id": "",
+    "card": "",
+    "remaining": 52,
+    "playerScore": 0
+  }
+}
